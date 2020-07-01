@@ -60,7 +60,7 @@ h2{
     text-align: center;
     background-image: linear-gradient(25deg, rgb(240, 58, 88), rgba(235, 111, 53, 0.856));
     height: 100px;
-    width: 45%;
+    width: 100%;
     border-radius: 8px;
     padding-top: 40px;
 }
